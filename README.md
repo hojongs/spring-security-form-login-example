@@ -10,7 +10,7 @@ Reference
 
 - https://www.baeldung.com/spring-security-login
 
-## OAuth2 Authorization Server
+## Form Login with OAuth2 Authorization Server
 
 Commit
 
